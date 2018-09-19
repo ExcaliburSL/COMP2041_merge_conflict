@@ -30,5 +30,3 @@ if ($#ARGV == 0) {
     }
 }
 
-print "master attempt change\n";
-print "another line here\n";
