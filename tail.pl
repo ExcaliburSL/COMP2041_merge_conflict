@@ -29,3 +29,4 @@ if ($#ARGV == 0) {
         close $f;
     }
 }
+print "editing file friend1 \n";
